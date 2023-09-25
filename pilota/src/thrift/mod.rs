@@ -1,5 +1,6 @@
 pub mod binary;
 pub mod binary_le;
+pub mod binary_shmipc;
 pub mod binary_unsafe;
 pub mod compact;
 pub mod error;
